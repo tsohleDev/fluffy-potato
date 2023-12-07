@@ -6,6 +6,9 @@ Here we use Pytorch to structure our transformer to our liking.
 - The Transformer architecture is in the [model.py](model.py) file
 - [data.py](data.py) contains some helper functions to handle the data i.e Tokenize it
 
+<div align=center>
+    <img src="https://cdn-images-1.medium.com/max/1200/1*KKADWARPMxHb-WMxCgW_xA.png">
+</div>
 
 ## Start The training
 
