@@ -27,7 +27,7 @@ In **line 78**
 
 and **line 85**
 ```py
- torch.save(losses_dictionary, 'losses.pt')
+            torch.save(losses_dictionary, 'losses.pt')
 ```
 
 I export the losses and the model to those files, during each epoch of the training.
